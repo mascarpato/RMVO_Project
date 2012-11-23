@@ -1,0 +1,5 @@
+work	"config.vhd"
+work	"data_memory.vhd"
+work	"device.vhd"
+work	"main.vhd"
+work	"target.vhd"

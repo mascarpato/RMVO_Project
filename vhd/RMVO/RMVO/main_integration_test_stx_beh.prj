@@ -1,0 +1,6 @@
+vhdl isim_temp "target.vhd"
+vhdl isim_temp "device.vhd"
+vhdl isim_temp "config.vhd"
+vhdl isim_temp "data_memory.vhd"
+vhdl isim_temp "main.vhd"
+vhdl isim_temp "main_integration_test.vhd"

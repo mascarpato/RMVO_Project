@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/John/Desktop/ENSIMAG/VHDL/RMVO/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/John/Desktop/ENSIMAG/VHDL/RMVO/xst"
+elaborate
+-ifn data_memory.prj
+-ifmt mixed

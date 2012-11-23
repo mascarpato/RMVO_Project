@@ -1,0 +1,2 @@
+vhdl work "target.vhd"
+vhdl work "device.vhd"

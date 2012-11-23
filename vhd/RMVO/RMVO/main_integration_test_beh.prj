@@ -1,0 +1,6 @@
+vhdl work "target.vhd"
+vhdl work "device.vhd"
+vhdl work "config.vhd"
+vhdl work "data_memory.vhd"
+vhdl work "main.vhd"
+vhdl work "main_integration_test.vhd"

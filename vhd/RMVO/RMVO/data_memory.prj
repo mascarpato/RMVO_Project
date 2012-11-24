@@ -1,4 +1,0 @@
-vhdl work "target.vhd"
-vhdl work "device.vhd"
-vhdl work "config.vhd"
-vhdl work "data_memory.vhd"
